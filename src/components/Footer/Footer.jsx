@@ -4,7 +4,7 @@ import Instagram from '../../assets/instagram.png';
 import Linkdin from '../../assets/linkedin.png';
 import Logo from '../../assets/logo.png';
 import './Footer.css'
-
+//
 const Footer = () => {
     return (
         <div className="Footer-container">
